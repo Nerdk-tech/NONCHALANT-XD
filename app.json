@@ -1,8 +1,8 @@
 {
-  "name": "LITE-XD",
+  "name": "NONCHALANT-XD",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN-XD","LITE-XD"],
+  "keywords": ["NONCHALANT-XD","NONCHALANT-XD"],
   "success_url": "/",
 
     "stack": "container",
@@ -37,7 +37,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263780166288"
+      "value": "2349120185747"
     },
     
     "PRESENCE": {
