@@ -1,12 +1,12 @@
-# Lite Xd – Bot Base Script
+# Nonchalant-xd – Bot Base Script
 
-**Repository:** [https://github.com/XdKing2/LITE-XD](https://github.com/XdKing2/LITE-XD)
+**Repository:** [https://github.com/Nerdk-tech/NONCHALANT-XD](https://github.com/Nerdk-tech/NONCHALANT-XD)
 
 ---
 
 ## 🤖 What is This?
 
-This is the **bot base script**, created by Malvin King.  
+This is the **bot base script**, created by Dami.  
 It serves as a foundation for building bots that handle session IDs and automate sharing links.
 
 The **session ID link** below is provided as a reference and example to use with the bot:
