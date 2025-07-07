@@ -1,9 +1,9 @@
 
 
 {
-  "name": "lite-xd",
+  "name": "nonchalant-xd",
   "version": "0.0.5",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By king dami",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lite",
